@@ -1,0 +1,27 @@
+# Binary Exploitation / Pwn
+
+## 📚 Courses
+
+- [pwn.college](https://pwn.college/dojos) - Interactive learning platform.
+- [OffensiveC](https://github.com/Get-ADPen/OffensiveC) - C for offensive exploitation.
+
+## 🗺️ Roadmaps
+
+- [System Programming Roadmap](https://github.com/muyiwadosunmu/system-programming-roadmap) - Structured guide for system programming.
+- [Scuffed_Low_Level_Stash](https://github.com/0xroman1/Scuffed_Low_Level_Stash) - Complete collection for pwn/reverse.
+
+## 📝 Articles & Writeups
+
+- [pwn.report](https://pwn.report/) - Writeups and exploit analyses.
+
+## 🧰 Exploit Tools
+
+- [Native Adversary Framework](https://github.com/0x3xp/Native-Adversary-Framework) - Exploit framework.
+
+## 📁 Repositories
+
+- [deep-researcher](https://github.com/thxa/deep-researcher/tree/main) - In-depth resources.
+
+## 🎯 Practice Platforms
+
+- [pwn.college Dojos](https://pwn.college/dojos) - Ranked challenges by difficulty level.
