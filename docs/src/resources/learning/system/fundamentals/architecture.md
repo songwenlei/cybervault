@@ -13,7 +13,7 @@
 
 ## 📝 Theory & Concepts
 
-- [Computer Science (playlist videos)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [CrashCourse Computer Science (playlist videos)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Crafting Computer - GitBook](https://kevinli.gitbook.io/crafting-computer) - Build a computer from scratch.
 - [Von Neumann Architecture](https://medium.com/@hannah.scherz.23/the-basic-structure-of-computer-systems-von-neumann-architecture-18c1cc546ab2) - Basic structure of computer systems.
 - [Von Neumann Architecture - Blaise Pascal](https://info.blaisepascal.fr/nsi-modele-darchitecture-de-von-neumann/) - Explanation in French.
