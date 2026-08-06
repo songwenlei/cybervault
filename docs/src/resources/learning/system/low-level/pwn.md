@@ -5,6 +5,12 @@
 - [pwn.college](https://pwn.college/dojos) - Interactive learning platform.
 - [OffensiveC](https://github.com/Get-ADPen/OffensiveC) - C for offensive exploitation.
 
+## 📖 Book
+
+- [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+- [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+- [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+
 ## 🗺️ Roadmaps
 
 - [System Programming Roadmap](https://github.com/muyiwadosunmu/system-programming-roadmap) - Structured guide for system programming.

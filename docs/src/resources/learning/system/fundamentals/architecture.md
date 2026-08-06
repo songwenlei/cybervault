@@ -8,8 +8,10 @@
 
 ## 📖 Books
 
+- [Computer Systems: A Programmer's Perspective](https://ia601501.us.archive.org/35/items/informationTechnologyBooks/Bryant_R__O_39_Hallaron_D_-_Computer_Systems_A_Programmer_39_s_Perspective_-_2010.pdf) - The reference for understanding software/hardware interaction.
+- [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 - [C O D E](https://www.amazon.com/exec/obidos/ASIN/0735611319) - The Hidden Language of Computer Hardware and Software.
-- [Computer Systems: A Programmer's Perspective](https://welib.org/md5/13a2003685e7ca8c1ca073959eaba895) - The reference for understanding software/hardware interaction.
+- [Operating Systems: Three Easy Pieces](https://ia600600.us.archive.org/7/items/operating-systems-three-easy-pieces/Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau%20-%20Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf) / [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## 📝 Theory & Concepts
 
