@@ -20,12 +20,3 @@
 ## ✍🏻 Practice
 
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning#cc) - Learn by doing.
-
-## Resources
-
-- **Hacking: The Art of Exploitation** – Jon Erickson
-- **The C Programming Language** – Kernighan & Ritchie
-- **Computer Systems: A Programmer's Perspective** – Bryant & O'Hallaron
-- **OSTEP** – Remzi & Andrea Arpaci-Dusseau
-- **GDB Documentation**: [sourceware.org/gdb/current/onlinedocs/gdb/](https://sourceware.org/gdb/current/onlinedocs/gdb/)
-- **x86 Assembly Guide**: [cs.virginia.edu/~evans/cs216/guides/x86.html](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)

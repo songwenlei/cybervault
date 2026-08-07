@@ -20,9 +20,10 @@
 
 ## 🎙️ Podcast
 
-- [La French Connection](https://securite.fm/)
-- [TheCyberWire](https://thecyberwire.com/)
 - [Hack'n Speak](https://www.podchaser.com/podcasts/hackn-speak-1787627)
+- [La French Connection](https://securite.fm/)
+- [PolySecure](https://polysecure.ca/)
+- [TheCyberWire](https://thecyberwire.com/)
 - [Darknet Diaries](https://darknetdiaries.com)
 - [Risky Business](https://risky.biz/podcasts/)
 - [SANS](https://isc.sans.edu/podcast.html)

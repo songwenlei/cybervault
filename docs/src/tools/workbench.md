@@ -5,6 +5,7 @@
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source Notion alternative with AI integration.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - Open-source block-based knowledge base with Markdown.
 - [Obsidian](https://obsidian.md/) - Powerful knowledge base that works on local Markdown files.
+- [ZenNotes](https://zennotes.org/) - Local Markdown notes with Vim motions, diagrams.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, projects, and databases.
 
 ## 🛠️ Diagramming & Whiteboard

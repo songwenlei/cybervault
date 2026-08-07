@@ -27,3 +27,7 @@
 - [qBittorrent](https://www.qbittorrent.org/) - Client torrent.
 - [webTorrent](https://webtorrent.io/) - Hosted your own Torrent website.
 - [Instant.io](https://instant.io/) - Share & download torrent from web.
+
+### 🌐 Browser
+
+- [Torlink](https://github.com/baairon/torlink) - CLI tool to search torrent link.

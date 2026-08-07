@@ -8,6 +8,7 @@
 - [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/services-webmail)
 - [ProtonMail](https://proton.me/)
 - [tutanota](https://mail.tutanota.com/)
+- [Posteo](https://posteo.de/en)
 - [Disroot](https://disroot.org/)
 - [emkei.cz](https://emkei.cz/) - Send anonymous emails.
 - [anonymousemail.me](https://anonymousemail.me/) - Send anonymous emails.
@@ -17,6 +18,8 @@
 - [Signal](https://signal.org/fr/)
 - [Telegram](https://telegram.org/)
 - [Session](https://getsession.org/)
+- [SimpleX](https://simplex.chat/)
+- [Keybase](https://keybase.io/)
 - [qTOX](https://qtox.github.io/)
 - [Quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS.
 - [terminalphone](https://github.com/Meritpayselection234/terminalphone) - Send encrypted voice and text messages via Tor hidden services in bash.
@@ -29,5 +32,8 @@
 
 ## 📤 Sharing
 
+- [LocalSend](https://localsend.org/) - Share files without the cloud.
+- [onionshare.org](https://onionshare.org/) - File sharing & hosting via Tor, highly anonymous.
 - [CryptPad](https://cryptpad.fr/) - Create documents end-to-end encrypted, with collaboration in real-time.
 - [SecureDrop](https://securedrop.org/) - Share and accept documents securely.
+- [Syncthing](https://syncthing.net/)

@@ -3,8 +3,7 @@
 ## 📌 General
 
 - [Aperi'Solve](https://aperisolve.fr/)
-- [StegOnline](https://georgeom.net/StegOnline/upload)
-- [FotoForensics](https://fotoforensics.com/)
+- [boxentriq.com](https://www.boxentriq.com)
 - [TweakPNG](https://entropymine.com/jason/tweakpng/) - Examining & modifying PNG image files.
 - [zsteg](https://github.com/zed-0xff/zsteg) – CLI tool for hidden PNG/BMP data.
 
@@ -12,8 +11,10 @@
 
 ### 🖼️ Images
 
+- [FotoForensics](https://fotoforensics.com/)
+- [StegOnline](https://georgeom.net/StegOnline/upload)
 - [Exiftool (online)](https://exif.tools/) | [Exiftool (CLI)](https://exiftool.org) – Extract metadata from images.
-- [Jimpl](https://jimpl.com/) – Online metadata analyzer.
+- [Steganography](https://github.com/ragibson/Steganography) - LSB Steagnography tool.
 
 ### 📁 Documents
 
@@ -25,3 +26,8 @@
 
 - [AudaCity](https://www.audacityteam.org/) - [WavaCity (online version)](https://wavacity.com/)
 - [ffprobe](https://ffmpeg.org/ffprobe.html) – CLI tool to analyze audio/video files.
+
+#### ၊၊||၊ Spectrum
+
+- [spek](https://github.com/alexkay/spek)
+- [Sonic Visualizer](https://sonicvisualiser.org/)

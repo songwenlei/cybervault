@@ -11,6 +11,7 @@
 ### Configuration
 
 - [privacy.sexy](https://privacy.sexy/) - Collection of scripts to enforce privacy & security.
+- [EasyList](https://easylist.to/) - Lists are sets of rules for AD blocker in browser.
 
 ## 🌐 Browsing
 
@@ -38,7 +39,7 @@
 - [Search Engine list](https://start.me/p/b56G5Q/search-engines)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Startpage](https://www.startpage.com/sp/search) - Anonymous veiw (mask DNS, IP, Location, User-Agent).
-- [Searx](https://searx.space/) - Multiple servers are available, can be self-hostable.
+- [Searx](https://searx.space/)([github](https://github.com/searxng/searxng)) - Multiple servers are available, can be self-hostable.
 - [swisscows](https://swisscows.com/)
 - [gibiru](https://gibiru.com/)
 - [kagi](https://kagi.com/)
@@ -59,6 +60,12 @@
 - [Mullvad](https://mullvad.net/)
 - [ProtonVPN](https://protonvpn.com/)
 - [IVPN](https://www.ivpn.net/en/)
+- [AirVPN](https://airvpn.org/)
+
+### 🌐 DNS
+
+- [Quad9](https://quad9.net/)
+- [Pi-hole](https://pi-hole.net/)
 
 ### 🔀 Proxy
 
@@ -73,6 +80,8 @@
 
 ## 🖧 Servers
 
+- [Serveo](https://serveo.net/) - Port forwarding via ssh.
+- [Ngrok](https://ngrok.com/) - Port forwarding.
 - [privex](https://www.privex.io/) - VPS.
 - [1984](https://1984.hosting/) - VPS.
 - [infinityfree](https://infinityfree.com/) - Free web server to host a php site.

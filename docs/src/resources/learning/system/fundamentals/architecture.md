@@ -4,6 +4,7 @@
 
 - [MIT 6.S081 - Operating Systems Engineering](https://pdos.csail.mit.edu/6.828/2020/schedule.html) - Complete OS course (xv6, RISC-V).
 - [OpenSecurityTraining2 - Arch1001: x86-64 Assembly](https://apps.p.ost2.fyi/learning/course/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/home) - x86-64 architecture and assembly.
+- [cs.virginia.edu/~evans/cs216/guides/x86.html](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - x86 Assembly Guide
 - [BestCours - Computer Architecture](https://www.bestcours.com/architecture-ordinateurs) - Collection of free PDF courses.
 
 ## 📖 Books
@@ -12,6 +13,7 @@
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 - [C O D E](https://www.amazon.com/exec/obidos/ASIN/0735611319) - The Hidden Language of Computer Hardware and Software.
 - [Operating Systems: Three Easy Pieces](https://ia600600.us.archive.org/7/items/operating-systems-three-easy-pieces/Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau%20-%20Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf) / [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Dive Into Systems: A Gentle Introduction to Computer Systems](https://www.amazon.com/Dive-Into-Systems-Introduction-Computer/dp/1718501366)
 
 ## 📝 Theory & Concepts
 
